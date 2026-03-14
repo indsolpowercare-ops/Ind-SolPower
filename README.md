@@ -1,1 +1,1 @@
-# Ind-SolPower
+GMAIL APP PASSWORD : frkxitxkfgvchtuz

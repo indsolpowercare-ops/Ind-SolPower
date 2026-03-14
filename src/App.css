@@ -1,0 +1,10 @@
+#root {
+  min-height: 100vh;
+  width: 100%;
+}
+
+@media (max-width: 640px) {
+  #root {
+    min-height: 100vh;
+  }
+}
